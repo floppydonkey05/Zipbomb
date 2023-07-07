@@ -1,5 +1,5 @@
 # The Application
-This application contains a zip bomb, and a random number generator. Much more may be added soon.
+This application contains a zip bomb generator, and a random number generator. Much more may be added soon.
 
 Warning: I am not liable for any damages caused by this application or damages caused by the files created by it. Use at your own discretion. 
 
